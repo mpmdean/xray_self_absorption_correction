@@ -1,0 +1,14 @@
+name: xraylarch
+dependencies:
+  - python=3.8
+  - pandas
+  - scipy[version='>1.5*']
+  - numpy[version='>=1.2']
+  - matplotlib[version='>3.0*']
+  - scikit-learn
+  - pip
+  - conda-forge::wxpython==3.*
+  - conda-forge::pymatgen
+  - conda-forge::tomopy
+  - pip:
+    - xraylarch
