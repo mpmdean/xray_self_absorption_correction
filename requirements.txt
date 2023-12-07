@@ -1,0 +1,3 @@
+xraylarch
+matplotlib
+scipy
